@@ -10,3 +10,4 @@ Dhouchdhanin L.
 
 ## License
 Lines is licensed under the **MIT License**.
+=(SUMIFS('[Supplementary File Template_Jan2024_Enhancement_LLF.xlsx]I17 BI Database'!$AB:$AB,'[Supplementary File Template_Jan2024_Enhancement_LLF.xlsx]I17 BI Database'!$F:$F,"Premium FY, Direct",'[Supplementary File Template_Jan2024_Enhancement_LLF.xlsx]I17 BI Database'!$I:$I,"AP01/GM000"))*$A4
